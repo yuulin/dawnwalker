@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
 Sitemap: https://dawnwalker.world/sitemap.xml
+Sitemap: https://dawnwalker.world/es/sitemap.xml
+Sitemap: https://dawnwalker.world/pt-br/sitemap.xml
+Sitemap: https://dawnwalker.world/de/sitemap.xml
+Sitemap: https://dawnwalker.world/ja/sitemap.xml
+Sitemap: https://dawnwalker.world/fr/sitemap.xml
